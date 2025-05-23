@@ -25,15 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="yourusername" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 - **[NLQ-to-SQL System](#)** – Natural language to SQL query converter using LLMs and Groq API  
