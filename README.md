@@ -27,8 +27,8 @@
 
 ### 🚀 Featured Projects
 
-- **[NLQ-to-SQL System](#)** – Natural language to SQL query converter using LLMs and Groq API  
-- **[CartMapper](#)** – AI shopping assistant with multilingual voice interaction
+- **[NLQ-to-SQL System](https://github.com/ShreyaaVenkateswaran/NLQ-to-SQL-System)** – Natural language to SQL query converter using LLMs and Groq API  
+- **[CartMapper](https://github.com/ManasweeDutta/CARTMAPPER)** – AI shopping assistant with multilingual voice interaction
 
 ---
 
