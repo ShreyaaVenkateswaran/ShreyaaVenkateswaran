@@ -32,4 +32,20 @@
 
 ---
 
+### 🏆 Achievements
+
+- ✅ Completed **Machine Learning Specialization course by Andrew Ng** 
+- 🌐 Participated in college tech expo where my team and I presented CartMapper
+- 🥇 Participated in various tech hackathons
+
+---
+
+### 🎯 Interests
+
+- 🧠 **Exploring Generative AI** and building creative AI tools   
+- 🌍 Curious about **Tech for Social Good** and ethical AI  
+- 🎮 Passionate about contributing to impactful projects 
+
+---
+
 
